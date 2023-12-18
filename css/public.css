@@ -1,0 +1,135 @@
+/*首页及其他页面公共部分样式*/
+
+/*头部*/
+.head {
+    min-width: 1160px;
+    height: 40px;
+    position: relative;
+    background: #FFFFFF;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.headMenu ul{
+    text-align: center;
+}
+
+.headMenu li{
+    height: 30px;
+    list-style: none;
+    display: inline;
+    margin-left: 70px;
+    position: relative;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.headMenu li a{
+    color: darkcyan;
+    text-decoration: none
+}
+
+
+/*Introduction*/
+/*个人照片*/
+.IntroImg{
+    float: left;
+    width: 320px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.IntroImg img{
+    width: 320px;
+    height: 400px;
+}
+
+/*个人介绍*/
+.IntroDetail{
+    float: right;
+    width: 800px;
+    height: 400px;
+    margin-right: 0;
+    margin-top: 20px;
+}
+
+.IntroName{
+    margin-top: 20px;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.IntroCommunication{
+    font-size: 22px;
+    margin-bottom: 24px;
+    color: darkgray;
+}
+
+.IntroEdu{
+    font-size: 28px;
+    color: #333333;
+    margin-bottom: 10px;
+}
+
+.IntroEduDetail{
+    color: darkgrey;
+    font-size: 18px;
+    margin-bottom: 30px;
+    line-height: 28px;
+}
+
+.IntroSkills{
+    font-size: 22px;
+    color: #94AEFE;
+    line-height: 35px;
+    margin-bottom: 10px;
+}
+.IntroHobbies{
+    font-size: 22px;
+    color: #94AEFE;
+    line-height: 35px;
+    margin-bottom: 10px;
+}
+
+/*获奖情况*/
+.IntroHonors{
+    border-top: 1px solid #dddddd;
+    width: 1250px;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+.IntroHonorsTittle{
+    font-size: 30px;
+    color: #333333;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+.IntroHonorsDetails{
+    color: darkgrey;
+    font-size: 20px;
+    margin-bottom: 30px;
+    line-height: 35px;
+}
+
+.IntroAwardsImg{
+    border-top: 1px solid #dddddd;
+    width: 1250px;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+.IntroAwardsImg img{
+    margin-top: 30px;
+    margin-left: 45px;
+    margin-bottom: 50px;
+    width: 350px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.footer{
+    height: 100px;
+    bottom: 0px;
+}

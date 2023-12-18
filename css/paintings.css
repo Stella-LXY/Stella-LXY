@@ -1,0 +1,141 @@
+/*板绘页面相关样式*/
+
+
+.PaintingsIntro{
+    height: 80px;
+    width: 1350px;
+}
+
+.PaintingsIntroHead{
+    width: 450px;
+    margin-left: 130px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    font-size: 48px;
+    color: darkcyan;
+    border-bottom: #999999 2px solid;
+
+}
+
+.shorterPaintings{
+    height: 250px;
+    width: 1200px;
+    margin-left: 80px;
+    margin-top: 40px;
+    padding-bottom: 40px;
+    border-bottom: #777777 1px solid;
+}
+
+.shorterPaintingsImg{
+    float: left;
+    height: 240px;
+    width: 350px;
+    border: lavender 1px solid;
+    border-radius: 18px;
+    margin-left: 50px;
+}
+
+.shorterPaintingsImg img{
+    height: 250px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.shorterPaintingsIntro{
+    height: 250px;
+    width: 720px;
+    border-radius: 20px;
+    margin-left: 450px;
+    position: relative;
+}
+
+.shorterPaintingsTittle{
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 36px;
+    color: #333333;
+}
+
+.shorterPaintingsSoftware{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 28px;
+    color: #777777;
+}
+
+.shorterPaintingsIntroduction{
+    position: absolute;
+    bottom: 0px;
+    margin-left: 30px;
+    font-size: 32px;
+    color: royalblue;
+}
+
+.shorterPaintingsIntroduction p{
+    margin-top: 10px;
+    font-size: 24px;
+    color: #777777;
+}
+
+.tallerPaintings{
+    height: 300px;
+    width: 1200px;
+    margin-left: 80px;
+    margin-top: 40px;
+    padding-bottom: 40px;
+    border-bottom: #777777 1px solid;
+}
+
+.tallerPaintingsImg{
+    float: left;
+    height: 300px;
+    width: 230px;
+    border: lavender 1px solid;
+    border-radius: 18px;
+    margin-left: 50px;
+}
+
+.tallerPaintingsImg img{
+    height: 300px;
+    width: 230px;
+    border-radius: 20px;
+}
+
+.tallerPaintingsIntro{
+    height: 300px;
+    width: 850px;
+    /*background: #eeeeee;*/
+    border-radius: 20px;
+    margin-left: 350px;
+    position: relative;
+}
+
+.tallerPaintingsTittle{
+    padding-top: 40px;
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 36px;
+    color: #333333;
+}
+
+.tallerPaintingsSoftware{
+    margin-top: 15px;
+    margin-left: 40px;
+    font-size: 28px;
+    color: #777777;
+}
+
+.tallerPaintingsIntroduction{
+    position: absolute;
+    bottom: 0px;
+    margin-left: 40px;
+    font-size: 32px;
+    color: royalblue;
+}
+
+.tallerPaintingsIntroduction p{
+    margin-top: 10px;
+    font-size: 24px;
+    color: #777777;
+}
